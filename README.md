@@ -1,4 +1,4 @@
-# Teste de Busca de Produtos - Automation Exercise
+# Teste de Busca de Produtos 
 Este projeto contém um teste automatizado usando o Cypress para realizar uma busca de produtos no site Automation Exercise.
 
 # Descrição
